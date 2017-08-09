@@ -4,6 +4,10 @@
 
 http://www.blogjava.net/hengheng123456789/articles/65690.html
 http://www.cnblogs.com/itech/archive/2010/09/16/1827999.html
+运行：
+运行HelloAgent，然后打开网页：http://localhost:8082/
+ 单击“name=HelloWorld”链接进入
+
 
 1、JMX的Hello World
  一、JMX简介

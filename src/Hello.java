@@ -12,9 +12,9 @@ public class Hello implements HelloMBean {
         this.name = name;
     }
     public void printHello() {
-        System.out.println("Hello World, " + name);
+        System.out.println("测试1：Hello World, " + name);
     }
     public void printHello(String whoName) {
-        System.out.println("Hello , " + whoName);
+        System.out.println("测试2：Hello , " + whoName);
     }
 }
